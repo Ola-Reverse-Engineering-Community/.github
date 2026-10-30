@@ -33,7 +33,7 @@ cloud account.
 | [**ola-dash-sdk**](https://github.com/abhi245y/ola-dash-sdk) | A replacement dash for the S1 Pro Gen 1 (Android 10): a Slint home app (~70 MB RAM vs ~640 MB stock), runtime themes, display-only car data, and a small Android app-facing API. |
 | [**ola-can-reference**](https://github.com/abhi245y/ola-can-reference) | Gen 1 CAN catalog pinned to the HVDP 5.0.0 app: IDs, signals, enums, source locations, a decoder for supplied frames, and tooling to reason about the bus. |
 | [**ola-dev-skill**](https://github.com/abhi245y/ola-dev-skill) | An agent skill (Claude Code, Codex, Gemini CLI, Cursor) for building themes, plugins and tools against the two repositories above. |
-| [**axiom**](https://codeberg.org/pitzel/axiom) | An external project by pitzel, added to the community index as a related reverse-engineering and tooling reference. |
+| [**axiom**](https://codeberg.org/pitzel/axiom) | Android app to access the gRPC daemon, execute commands, and read live CAN data |
 
 More projects land here as contributors publish them.
 
