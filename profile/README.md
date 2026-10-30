@@ -29,10 +29,11 @@ cloud account.
 
 | Repository | What it is |
 |---|---|
-| [**ola-s1-rea**](https://github.com/Ola-Reverse-Engineering-Community/ola-s1-rea) | The main lab notebook: root over IPv6, the 40-method gRPC schema, the CAN map, HMI notes, and a five-screen Android app |
-| [**ola-dash-sdk**](https://github.com/abhi245y/ola-dash-sdk) | A replacement dash for the S1 Pro Gen 1 (Android 10): a Slint home app (~70 MB RAM vs ~640 MB stock), runtime themes, display-only plugins, and a host-drawn safety overlay themes cannot hide. Talks to the stock vehicle service through clean-room interface files. Tested on Gen 1; the latest themes and the trunk button are not yet tested on a scooter |
-| [**ola-can-reference**](https://github.com/abhi245y/ola-can-reference) | Gen 1 CAN catalog pinned to the HVDP 5.0.0 app: IDs, signals, enums, source locations, a decoder for supplied frames, and evidence templates. Read-only: it never transmits |
-| [**ola-dev-skill**](https://github.com/abhi245y/ola-dev-skill) | An agent skill (Claude Code, Codex, Gemini CLI, Cursor) for building themes, plugins and tools against the two repositories above, with their safety rules built in |
+| [**ola-s1-rea**](https://github.com/Ola-Reverse-Engineering-Community/ola-s1-rea) | The main lab notebook: root over IPv6, the 40-method gRPC schema, the CAN map, HMI notes, and a five-screen Android app.
+| [**ola-dash-sdk**](https://github.com/abhi245y/ola-dash-sdk) | A replacement dash for the S1 Pro Gen 1 (Android 10): a Slint home app (~70 MB RAM vs ~640 MB stock), runtime themes, display-only car data, and a small Android app-facing API. |
+| [**ola-can-reference**](https://github.com/abhi245y/ola-can-reference) | Gen 1 CAN catalog pinned to the HVDP 5.0.0 app: IDs, signals, enums, source locations, a decoder for supplied frames, and tooling to reason about the bus. |
+| [**ola-dev-skill**](https://github.com/abhi245y/ola-dev-skill) | An agent skill (Claude Code, Codex, Gemini CLI, Cursor) for building themes, plugins and tools against the two repositories above. |
+| [**axiom**](https://codeberg.org/pitzel/axiom) | An external project by pitzel, added to the community index as a related reverse-engineering and tooling reference. |
 
 More projects land here as contributors publish them.
 
